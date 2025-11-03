@@ -11,9 +11,9 @@ Este site reúne os materiais, anotações e entregas da disciplina **Redes Neur
 
 ## Exercícios
 
-- [x] [Data](data/main.md)
-- [x] [Perceptron](perceptron/main.md)
-- [ ] MLP<!-- [MLP] (mlp/main.md)-->
+- [x] [Data](./exercicios/data/main.md)
+- [x] [Perceptron](./exercicios/perceptron/main.md)
+- [x] [MLP](./exercicios/mlp/index.ipynb)
 - [ ] VAE<!--[VAE] (vae/main.md)-->
 
 ## Projetos
