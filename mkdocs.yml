@@ -144,7 +144,7 @@ nav:
   - Exercícios: 
     - Data: ./exercicios/data/main.md
     - Perceptron: ./exercicios/perceptron/main.md
-  #- MLP: ./roteiro3/index.md
+    - MLP: ./exercicios/mlp/index.ipynb
   #- VAE:
   - Projetos: 
     - ANN Regression: ./projetos/ann-regression.ipynb

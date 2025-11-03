@@ -560,6 +560,6 @@ Essa confusão indica que **o modelo tende a superestimar o sucesso acadêmico**
 
 ## Appendix — Código de Treino e Avaliação
 
-Arquivo Jupyter implementando o MLP ![aqui](https://github.com/lucasouzamil/mlp-classification/blob/mkdocs/main.ipynb).
+Arquivo Jupyter implementando o MLP ![aqui](./main.ipynb).
 
 
