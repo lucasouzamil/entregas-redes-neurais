@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/</loc>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/</loc>
          <lastmod>2025-11-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/template/</loc>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/template/</loc>
          <lastmod>2025-11-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/exercicios/data/main/</loc>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/exercicios/data/main/</loc>
          <lastmod>2025-11-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/exercicios/mlp/</loc>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/exercicios/mlp/</loc>
          <lastmod>2025-11-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/exercicios/perceptron/main/</loc>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/exercicios/perceptron/main/</loc>
          <lastmod>2025-11-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/projetos/ann-regression/</loc>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/projetos/ann-regression/</loc>
          <lastmod>2025-11-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/projetos/mlp-classification/</loc>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/projetos/mlp-classification/</loc>
          <lastmod>2025-11-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/projetos/mlp-classification/main/</loc>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/projetos/mlp-classification/main/</loc>
          <lastmod>2025-11-03</lastmod>
     </url>
 </urlset>
