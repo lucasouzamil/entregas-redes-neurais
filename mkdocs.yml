@@ -1,7 +1,7 @@
 site_name: Redes Neurais e DeepLearning
 site_author: Lucas Lima
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
+site_url: https://lucasouzamil.github.io/entregas-redes-neurais/
+repo_url: https://github.com/lucasouzamil/entregas-redes-neurais
 
 theme:
   name: material
