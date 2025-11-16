@@ -149,4 +149,5 @@ nav:
   - Projetos: 
     - ANN Regression: ./projetos/ann-regression.ipynb
     - MLP Classification: ./projetos/mlp-classification/index.md
+    - Generative: ./projetos/generative/main.ipynb
 

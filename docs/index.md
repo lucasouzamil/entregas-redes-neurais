@@ -20,4 +20,4 @@ Este site reúne os materiais, anotações e entregas da disciplina **Redes Neur
 
 - [x] [Classificação](https://lucasouzamil.github.io/mlp-classification/#72-analysis-of-learning-behavior)
 - [x] [Regressão](https://lucasouzamil.github.io/ann-regression/)
-- [ ] Generative<!--[VAE] (vae/main.md)-->
+- [x] [Generative](./projetos/generative/main.ipynb)
