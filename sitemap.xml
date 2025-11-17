@@ -2,34 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://lucasouzamil.github.io/entregas-redes-neurais/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-17</lastmod>
     </url>
     <url>
          <loc>https://lucasouzamil.github.io/entregas-redes-neurais/template/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-17</lastmod>
     </url>
     <url>
          <loc>https://lucasouzamil.github.io/entregas-redes-neurais/exercicios/data/main/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-17</lastmod>
     </url>
     <url>
          <loc>https://lucasouzamil.github.io/entregas-redes-neurais/exercicios/mlp/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-17</lastmod>
     </url>
     <url>
          <loc>https://lucasouzamil.github.io/entregas-redes-neurais/exercicios/perceptron/main/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-17</lastmod>
     </url>
     <url>
          <loc>https://lucasouzamil.github.io/entregas-redes-neurais/projetos/ann-regression/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-17</lastmod>
+    </url>
+    <url>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/projetos/generative/1_documented/</loc>
+         <lastmod>2025-11-17</lastmod>
+    </url>
+    <url>
+         <loc>https://lucasouzamil.github.io/entregas-redes-neurais/projetos/generative/main/</loc>
+         <lastmod>2025-11-17</lastmod>
     </url>
     <url>
          <loc>https://lucasouzamil.github.io/entregas-redes-neurais/projetos/mlp-classification/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-17</lastmod>
     </url>
     <url>
          <loc>https://lucasouzamil.github.io/entregas-redes-neurais/projetos/mlp-classification/main/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-17</lastmod>
     </url>
 </urlset>
